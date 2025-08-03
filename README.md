@@ -1,4 +1,4 @@
----
+
 # 💡 What is RAGnosis?
 
 **RAGnosis** is an intelligent open-source teaching agent that combines Retrieval-Augmented Generation (RAG) with agentic reasoning. Designed to act as a **personal tutor, course assistant, and academic researcher**, RAGnosis enables:
@@ -10,7 +10,9 @@
 It works great in educational settings, research labs, and AI-enhanced LMS tools.
 
 Visit the live demo: [https://shikshaai.site](https://shikshaai.site)
+
 ---
+
 ## 🔧 Key Features
 
 - ✏️ **Document-Aware Tutor**: Upload textbooks, PDFs, or scraped course content for adaptive questioning.
